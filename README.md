@@ -1,20 +1,37 @@
-# Project 2 - Flack (Inspired by Slack)
+# Project 2 - Héctor Utreras - Yachay Tech University
 
 ## Web Programming with Python and JavaScript
-### Provided by Harvard University (HarvardX)
 
-* Project 2 is done by using Python, Flask, Flask-SocketIO, JavaScript, AJAX, Bootstrap.
+### The requirements are the next:
 
-* A user can Register in this Flack app by providing Name.
+* Display name: Remember after closing the page
 
-* User can Create a Channel.
+* Channel Creation
 
-* User can see available channels and join existing one to chat.
+* Check no conflict of name
 
-* Each ChatRoom contains its specific conversations.
+* Channel list
 
-* If user close the window, conversations and usernames will still exist in Session and localStorage.
+* Select one channel
 
-* My Personal touch is - Users can send Message Privately.
+* See last 100 messages
 
-* Quick Walkthrough - 
+* Store only last 100 messages
+
+* Sending messages - without reloading
+
+* Message with name and timestamp
+
+* Remembering the Channel after closing web browser
+
+* Personal touch
+
+* Readme.md
+
+* github
+
+* Youtube link
+
+##The tools used are:
+
+* Python, Flask, Flask-SocketIO, JavaScript, AJAX, Bootstrap.
